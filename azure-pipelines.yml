@@ -34,4 +34,3 @@ steps:
     configuration: '$(buildConfiguration)'
     batchingBasedOnAgentsOption
 - task: WhiteSource Bolt@20
-  inputs:'/'
